@@ -78,3 +78,12 @@ python3 scripts/pdfkit.py doctor
 ```
 
 Yêu cầu: `pymupdf` (`pip install pymupdf`) để đọc PDF.
+
+## 👩‍💻 Author
+
+Quang Huy (Michael) Le  
+BA Investment | Applied AI & Decision-Focused Data Science  
+HCMC, Vietnam
+
+If this project helps, consider starring the repo:  
+`https://github.com/michaelle68work-cmd/data-analyst-assistant`
