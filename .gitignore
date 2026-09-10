@@ -1,0 +1,19 @@
+# Dữ liệu và kết quả phân tích — không đẩy lên GitHub
+data/*
+!data/.gitkeep
+analyses/*
+!analyses/.gitkeep
+
+# Tài liệu nguồn của domain (bản quyền, dung lượng lớn)
+domain-knowledge/*.sources/
+
+# Output tạm của pdfkit
+.pdfkit/
+
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
